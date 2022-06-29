@@ -18,7 +18,7 @@ Sublime, Atom, VS code
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md]https://github.com/professorsch/Forma-oGE-Evaldo/blob/main/LICENSE
 
 ## 🎁 Expressões de gratidão
 
@@ -29,4 +29,6 @@ Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md](http
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ Evaldo Schmidt https://github.com/professorsch 😊
+
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
