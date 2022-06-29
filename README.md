@@ -1,14 +1,9 @@
 # Formacao do grupo de estudos de pensamento computacional
-<h1> Formacao do grupo de estudos de pensamento computacional </h1>
-
-# Título do projeto
-
-Um parágrafo da descrição do projeto vai aqui
 
 ## 🚀 Começando
 Esse progeto é sobre a linguagem HTML com um grupode Professores do Paraná.
 
-Consulte **Implantação** para saber como implantar o projeto.
+GitHub como ferramenta pedagógica.
 
 ### 📋 Pré-requisitos
 
