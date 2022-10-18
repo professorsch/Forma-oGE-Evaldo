@@ -4,6 +4,6 @@ body{
 h2{
     color: rgba(212, 141, 35, 0.801);
 }
-ul li{
+ul li a{
     color: aliceblue;
 }
