@@ -5,5 +5,6 @@ h2{
     color: rgba(212, 141, 35, 0.801);
 }
 ul li a{
-    color: aliceblue;
+    color: white;
+    padding: 5px;
 }
